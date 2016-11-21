@@ -1,0 +1,236 @@
+#mar {
+  border: 5px solid black ;
+  width: 15em ;
+  height: 475px ; 
+  border-radius: 9% 9% 9% 9% ;
+  background: gray ;
+}
+
+#p{
+  border: 3px dashed blue ;
+  width: 14,5em ;
+  height: 90px ;
+  border-radius: 15% 15% 15% 15% ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  background: aqua ;
+  margin-top: 15px ;
+}
+
+.num{
+width: 100% ;
+height: 100% ;
+border:5px black solid ;
+text-align: center ;
+background-color: yellow ;
+}
+
+.sim{
+	width: 60% ;
+	height: 15% ;
+	border: 2px pink solid ;
+	text-align: center ;
+	background-color: orange ;
+} 
+
+#pl{
+  /*border: 2px solid blue ;*/
+  height: 15% ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+}
+
+#sl{
+  /*border: 2px solid blue ;*/
+  height: 15% ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+}
+
+#tl{
+  /*border: 2px solid blue ;*/
+  height: 15% ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+}
+
+#cl{
+ /* border: 2px solid blue ;*/
+  height: 15% ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+}
+
+#ql{
+  /*border: 2px solid blue ;*/
+  height: 15% ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+}
+
+#b1{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b2{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b3{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b4{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b5{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b6{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b7{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b8{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b9{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#b0{
+  border: 3px solid black ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#bc{
+  border: 3px solid green ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+  background-color: red ;
+}
+
+#bi{
+  border: 3px solid green ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#bd{
+  border: 3px solid green ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#bm{
+  border: 3px solid green ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#br{
+  border: 3px solid green ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
+
+#bs{
+  border: 3px solid green ;
+  width: 35px ;
+  height: 35px ;
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+  border-radius: 15% 15% 15% 15% ;
+}
